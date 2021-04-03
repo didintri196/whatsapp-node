@@ -1,0 +1,8 @@
+{
+    "port":5000,
+    "url_web": "http://localhost/whatsapp-server",
+    "webhook":{
+        "enabled":true,
+        "path": "http://localhost/whatsapp-server/webhook"
+    }
+}
